@@ -1,12 +1,15 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://snip-share.herokuapp.com/)&nbsp;
 
 <h1 align="center">Library_with_Django_Rest</h1>
+
 ## Technology Stack
+
 * Backend
   * Django
   * Django Rest
 * Database
   * SQLite3
+  
 ## Tech Stack Involved
 <div style="display: flex;justify-content: center;">
 <img height="64px" width="auto" src="https://image.flaticon.com/icons/svg/919/919852.svg">
