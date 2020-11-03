@@ -72,7 +72,7 @@ python manage.py runserver
 > Samir Saitwal &copy; 2020
 <br><br>
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/samir321-pixel)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/samir321-pixel)
+
 
 ***
 ## Useful Resources
