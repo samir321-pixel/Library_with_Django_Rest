@@ -1,9 +1,10 @@
-<h1 align="center">Library_with_Django_Rest</h1>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://snip-share.herokuapp.com/)&nbsp;
+
+<h1 align="center">Library_with_Django_Rest</h1>
+
 ## Introduction
 
 ## Technology Stack
-
 * Backend
   * Django
   * Django Rest
