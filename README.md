@@ -68,5 +68,5 @@ python manage.py runserver
 
 - [Django Docs](https://docs.djangoproject.com/en/3.0/)
 - [Django Rest](https://www.django-rest-framework.org/)
-- [Bootstrap Docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
 - [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
