@@ -1,4 +1,5 @@
 <h1 align="center">Library_with_Django_Rest</h1>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://snip-share.herokuapp.com/)&nbsp;
 ## Introduction
 
 ## Technology Stack
@@ -58,9 +59,25 @@ To access webserver, run the following command
 ```bash
 python manage.py runserver
 ```
+## Project Admin
+[![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/samir321-pixel)
 
+> **_Need help?_** 
+> **_Feel free to contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_**
+
+## Like This?? Star ⭐ this Repo.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/samir321-pixel/Library_with_Django_Rest)
+
+> Made By Samir Saitwal with ❤️
+
+> Samir Saitwal &copy; 2020
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/samir321-pixel)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/samir321-pixel)
+
+***
 ## Useful Resources
-
 - [Django Docs](https://docs.djangoproject.com/en/3.0/)
 - [Django Rest](https://www.django-rest-framework.org/)
 - [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
