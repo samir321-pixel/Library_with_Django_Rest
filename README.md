@@ -16,11 +16,9 @@
 <img height="64px" width="auto" src="https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-808.png">
 <div/>
 
-<br/>
-<br/>
 ## Setup Instructions
 First make sure that you have the following installed.
-* Python 3 and virtualenv
+ Python 3 and virtualenv
 Now do the following to setup project.
 First, clone the repository to your local machine:
 
