@@ -51,12 +51,7 @@ python manage.py runserver
 
 The project will be available at **127.0.0.1:8000**.
 
-# run server
-To access webserver, run the following command
 
-```bash
-python manage.py runserver
-```
 ## Project Admin
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/samir321-pixel)
 
